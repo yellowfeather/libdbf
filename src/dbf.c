@@ -13,7 +13,7 @@
  * author makes no representations about the suitability of this software for
  * any purpose. It is provided "as is" without express or implied warranty.
  *
- * $Id$
+ * $Id: dbf.c,v 1.8 2004/09/07 16:08:23 steinm Exp $
  ****************************************************************************/
 
 

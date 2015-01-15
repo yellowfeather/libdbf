@@ -14,7 +14,7 @@
  * any purpose. It is provided "as is" without express or implied warranty.
  *
  *****************************************************************************
- * $Id$
+ * $Id: libdbf.h,v 1.6 2006/04/14 12:25:30 rollinhand Exp $
  ****************************************************************************/
 
 #include <sys/types.h>
