@@ -71,7 +71,7 @@
 /*
  * special anubisnet and dbf includes
  */
-#include "endian.h"
+#include "endian_.h"
 
 //@{
 /** These defines are used to distinguish between types in the dbf fields. */
